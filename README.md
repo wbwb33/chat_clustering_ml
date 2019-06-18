@@ -1,2 +1,2 @@
 # chat_clustering_ml
-plan
+Assignment project
